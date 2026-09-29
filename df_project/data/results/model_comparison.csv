@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC
+Baseline A - Spatial,0.6738,0.6731,0.9929,0.8023,0.6454
+Baseline B - Temporal GRU,0.681,0.6816,0.9786,0.8035,0.6635
+Baseline C - Concatenation,0.6833,0.696,0.9321,0.7969,0.6646
+Proposed - Gated Fusion,0.6643,0.6751,0.9571,0.7917,0.7002

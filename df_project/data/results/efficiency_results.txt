@@ -1,0 +1,8 @@
+EFFICIENCY EVALUATION
+=====================
+Device: cpu
+Total parameters: 1345793
+Trainable parameters: 1345793
+Model size MB: 5.1384
+Average inference time ms: 0.9513
+Sequences per second: 1051.2274
